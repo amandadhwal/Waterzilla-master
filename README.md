@@ -25,20 +25,7 @@ Welcome to WaterZilla, a powerful MERN stack web application that revolutionizes
 3. Create an account or log in as an admin to access the admin dashboard.
 4. Place water orders, track their status, and enjoy the seamless online water buying experience.
 
-## Contributing
 
-Contributions are welcome! If you would like to contribute to WaterZilla, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to explore, modify, and distribute WaterZilla according to the terms of the license. Your contributions and enhancements are highly appreciated!
 
 ## Contact
 
