@@ -1,8 +1,8 @@
-# WaterZilla
+# WaterBank
 
 ## Introduction
 
-Welcome to WaterZilla, a powerful MERN stack web application that revolutionizes the online water purchasing experience. With separate backends connected to MongoDB and MySQL, WaterZilla provides a seamless platform for customers and admin users. Customers can easily place water orders and track their status, while admins have comprehensive control over managing customers, orders , and generate insightful reports. 
+Welcome to Waterbank, a powerful MERN stack web application that revolutionizes the online water purchasing experience. With separate backends connected to MongoDB and MySQL,  Waterbank provides a seamless platform for customers and admin users. Customers can easily place water orders and track their status, while admins have comprehensive control over managing customers, orders , and generate insightful reports. 
 
 ## Features
 
@@ -10,7 +10,7 @@ Welcome to WaterZilla, a powerful MERN stack web application that revolutionizes
 - Admin Dashboard: Admins have access to a comprehensive dashboard with valuable insights, including customer details, registered bottle companies, and overall sales.
 - Efficient Order Management: Admins can efficiently manage orders, keeping track of each transaction and ensuring smooth operations.
 - Customization Options: Admins can add new customers, water bottle options, and bottle companies to cater to unique requirements.
-- Detailed Reports: WaterZilla generates detailed reports that can be exported to PDF format, offering a comprehensive overview of system performance.
+- Detailed Reports:  Waterbank generates detailed reports that can be exported to PDF format, offering a comprehensive overview of system performance.
 
 ## Installation
 
